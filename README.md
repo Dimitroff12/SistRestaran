@@ -1,2 +1,16 @@
-# SistRestaran
-Apresento a vocês O Meu Piteu, uma plataforma integrada que automatiza e otimiza todos os aspectos da gestão do seu restaurante. Desde o pedido do cliente até o relatório financeiro, nosso sistema cobre todas as necessidades. Estamos em uma primeira fase, o mesmo foi desenvolvido na linguagem dart na framework flutter
+# stec
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
